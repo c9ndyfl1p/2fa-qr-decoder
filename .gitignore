@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+authenticator_import/
+otpauth_uris.txt
